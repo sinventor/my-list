@@ -7,6 +7,7 @@
 * [ROR API](http://api.rubyonrails.org/)
 * [ROR Guides](http://guides.rubyonrails.org/)
 * [Design Patterns in Java](http://www.tutorialspoint.com/design_pattern/)
+* [Pro Git](http://git-scm.com/book/en/v2)
 
 ## Science
 * [Math is fun](https://www.mathsisfun.com/)
