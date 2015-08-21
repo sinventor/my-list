@@ -21,3 +21,4 @@
 * [7 рефакторингов для больших ActiveRecord — моделей](http://habrahabr.ru/post/192504/)
 * [Биллинг в SaaS-приложениях на Ruby on Rails](http://habrahabr.ru/company/lpcloud/blog/236453/)
 * [Набор Ruby библиотек для CMS и сайта медиа издания](http://habrahabr.ru/post/244157/)
+* [Ruby и криптоалгоритмы ГОСТ](http://habrahabr.ru/post/231261/)
