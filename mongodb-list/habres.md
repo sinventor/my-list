@@ -7,3 +7,4 @@
 * [MongoDB или как разлюбить SQL](http://habrahabr.ru/post/74144/)
 * [Анонс MongoDB 3](http://habrahabr.ru/post/251745/)
 * [MongoDB от теории к практике. Руководство по установке кластера mongoDB](http://habrahabr.ru/post/217393/)
+* [Шпаргалки по MongoDB](http://habrahabr.ru/post/161985/)
