@@ -8,3 +8,4 @@
 * [Анонс MongoDB 3](http://habrahabr.ru/post/251745/)
 * [MongoDB от теории к практике. Руководство по установке кластера mongoDB](http://habrahabr.ru/post/217393/)
 * [Шпаргалки по MongoDB](http://habrahabr.ru/post/161985/)
+* [Шпаргалка по mongodb: e-commerce, миграция, часто применяемые операции и немного о транзакциях](http://habrahabr.ru/post/259219/)
