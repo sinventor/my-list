@@ -1,0 +1,6 @@
+* [New Relic: Real Time Ruby Monitoring](http://www.sitepoint.com/new-relic-realtime-ruby-monitoring/)
+* [New Relic — полный мониторинг вашего RoR приложения](http://habrahabr.ru/post/63072/)
+* [NewRelic открывает бесплатный доступ к своей новой SaaS-платформе мониторинга](http://habrahabr.ru/post/136689/)
+* [How to Set up a Rails 4.2 Mailer with Sidekiq](https://www.codefellows.org/blog/how-to-set-up-a-rails-4-2-mailer-with-sidekiq)
+* [Using Sidekiq to send emails asynchronously](http://blog.remarkablelabs.com/2013/01/using-sidekiq-to-send-emails-asynchronously)
+* [How to Integrate Sidekiq With ActiveJob](http://ruby-journal.com/how-to-integrate-sidekiq-with-activejob/)
